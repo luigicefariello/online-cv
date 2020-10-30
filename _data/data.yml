@@ -125,6 +125,12 @@ experiences:
       company: TESS COSTA DEL VESUVIO SPA
       details: |
           I have done as teacher for a basic computer course for employees of the company.
+    
+    - role: IT SUPPORT TECHNICIAN
+      time: 2006 - 2006
+      company: SOFTWARE & SISTEMI SRL
+      details: |
+          I was a Help Desk Support member, hardware maintenance, installation and configuration of personal computers and notebooks.I was in charge of releasing software patches in the Linux environment of a management system created and developed by the same company.
 
 projects:
     title: Projects
