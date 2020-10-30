@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website: luigicefariello.it #do not add http://
     linkedin: luigi-cefariello
-    github: luigicefariello
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -102,17 +102,11 @@ experiences:
           - Implemented regular and secure server backup using Symaentec Backud Exec 
           - Maintained the Anti-virus protection using Symantec, Sophos and Bitdefender. 
          
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: ON SITE IT SUPPORT ENGINEER 
+      time: 2020 - 2020
+      company: Fedex
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          I was part of the team Windows 10 Deployment Engineers, rolling out devices to users, providing installation & deployment services in a corporate environment. As well as working with a large number of users, i interacted  with other deployment engineers and managers on a regular basis.t
 projects:
     title: Projects
     intro: >
