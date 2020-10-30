@@ -78,7 +78,7 @@ experiences:
     
     - role: IT Manager
       time: 2011 - Present
-      company: Appaltitalia , London
+      company: Appaltitalia
       details: |
        Appaltitalia is a company with 50 employees and 3 locations, which deals with collecting information on tenders and public tenders. 
        In my role as IT Manager, I provide support of an IT and administrative nature to my colleagues in the IT department. My responsabilities include:
@@ -86,9 +86,19 @@ experiences:
           - Established key policies and procedures relating to acceptable use, internet usage, data protection and use of IT equipment. 
           - Maintained the firewall including managing the rules for site filtering using Mikrotik. 
           - Managed the IT budget and provided regular reports on spend and projections.
-          
-          - Bullet point
-          - Bullet point
+       Key Projects 
+          - Carried out a review of the existing IT infrastructure; created an asset inventory and documented short and long-term areas for improvement. Provided costings for options, and gained approval for several projects which were completed over several years.These included: 
+          - Upgraded the Windows server estate include installing a new domain controller, rebuild of the AD environment, recreation of all accounts and group policies, and rebuild of the network. This initial work stabilised the environment and provided improved security and performance.
+          - Managed a 3-year cycle of tech refreshes for the desktop and laptops estate, including implementing several Windows client upgrades (7, 8, 10). 
+          - Initiated the migration to a virtualised environment, initially to VMWare Essentials and then to Amazon Web Services. This virtualisation strategy provided new remote access capabilities, and led to over 80% reduction in physical servers. Additionally, moving to thin clients reduced Windows upgrade deployment times by 80% and desktop/laptop refresh costs by 50%. 
+          - Managed migration from analog to VoIP based telephony based on Asterisk 
+          - Managed the migration from O365 to Google Apps 
+          - Managed the migration from an externally managed email provider to an in-house managed Exchange server. Maintained the Exchange server and carried out several upgrades (2003, 2010 and 2013) 
+          - Migrated MySQL databases from local to Amazon Aurora DB. 
+          - Migrated SQL Server databases from local to Microsoft Azure SQL.
+          - Implemented regular and secure server backup using Symaentec Backud Exec 
+          - Maintained the Anti-virus protection using Symantec, Sophos and Bitdefender. 
+         
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
