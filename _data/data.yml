@@ -113,13 +113,11 @@ experiences:
       company: Ministero Sviluppo Economico
       details: |
           I was a member of  the IT team of Ministry of Economic Development in Italy. I supported the management of active directory and the main network services.
-<<<<<<< HEAD
     
     - role: SYSTEM ENGINEER 
       time: 2006 - 2010
       company: Geega 
       details: |
-<<<<<<< HEAD
          I was a member of  IT department and my duties were : various system administration (RHEL/CentOS, ASPLinux, Fedora, Ubuntu, Mikrotik, Windows XP/2003),  Samba PDC and fileservers, LDAP,  Web services( Apache/Lighttpd), FTP (pure-ftpd), Mail (exim/dovecot/qmail/courier/roundcube), VoIP solutions installation and support, Automatic backup service, Technical support for customers.
     
     - role: TECH TRAINING
@@ -127,14 +125,8 @@ experiences:
       company: TESS COSTA DEL VESUVIO SPA
       details: |
           I have done as teacher for a basic computer course for employees of the company.
-   projects:
-=======
-          I was a member of  IT department and my duties were : various system administration (RHEL/CentOS, ASPLinux, Fedora, Ubuntu, Mikrotik, Windows XP/2003),  Samba PDC and fileservers, LDAP,  Web services( Apache/Lighttpd), FTP (pure-ftpd), Mail (exim/dovecot/qmail/courier/roundcube), VoIP solutions installation and support, Automatic backup service, Technical support for customers.
-=======
->>>>>>> parent of f32eab8... Update data.yml
 
 projects:
->>>>>>> parent of b45f6f2... Update data.yml
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
