@@ -82,10 +82,11 @@ experiences:
       details: |
        Appaltitalia is a company with 50 employees and 3 locations, which deals with collecting information on tenders and public tenders. 
        In my role as IT Manager, I provide support of an IT and administrative nature to my colleagues in the IT department. My responsabilities include:
-       Managed a small team (1-6) providing server, network, desktop, laptop and application support to staff, ensuring high-availability and performance.  
-       Established key policies and procedures relating to acceptable use, internet usage, data protection and use of IT equipment. 
-       Maintained the firewall including managing the rules for site filtering using Mikrotik. 
-       Managed the IT budget and provided regular reports on spend and projections.
+          - Managed a small team (1-6) providing server, network, desktop, laptop and application support to staff, ensuring high-availability and performance.  
+          - Established key policies and procedures relating to acceptable use, internet usage, data protection and use of IT equipment. 
+          - Maintained the firewall including managing the rules for site filtering using Mikrotik. 
+          - Managed the IT budget and provided regular reports on spend and projections.
+          
           - Bullet point
           - Bullet point
     - role: UI Developer
