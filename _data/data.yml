@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website: luigicefariello.it #do not add http://
     linkedin: luigi-cefariello
-    github: luigicefariello
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -133,7 +133,7 @@ experiences:
           I was a Help Desk Support member, hardware maintenance, installation and configuration of personal computers and notebooks.I was in charge of releasing software patches in the Linux environment of a management system created and developed by the same company.
 
     - role: WORKMAN
-      time: 200d - 2006
+      time: 2005 - 2006
       company: COOP. LA FIORUCCI SPA
       details: |
 
@@ -165,26 +165,24 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        link: ""
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: 
+        link: ""
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 
+        link: 
+        authors:
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
