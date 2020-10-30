@@ -108,11 +108,17 @@ experiences:
       details: |
           I was part of the team Windows 10 Deployment Engineers, rolling out devices to users, providing installation & deployment services in a corporate environment. As well as working with a large number of users, i interacted  with other deployment engineers and managers on a regular basis.
     
-    - role: SYSTYEM ADMINISTRATOR
+    - role: SYSTEM ADMINISTRATOR
       time: 2010 - 2011
       company: Ministero Sviluppo Economico
       details: |
           I was a member of  the IT team of Ministry of Economic Development in Italy. I supported the management of active directory and the main network services.
+
+    - role: SYSTEM ENGINEER 
+      time: 2006 - 2010
+      company: Geega 
+      details: |
+          I was a member of  IT department and my duties were : various system administration (RHEL/CentOS, ASPLinux, Fedora, Ubuntu, Mikrotik, Windows XP/2003),  Samba PDC and fileservers, LDAP,  Web services( Apache/Lighttpd), FTP (pure-ftpd), Mail (exim/dovecot/qmail/courier/roundcube), VoIP solutions installation and support, Automatic backup service, Technical support for customers.
 
 projects:
     title: Projects
