@@ -119,6 +119,18 @@ experiences:
       company: Geega 
       details: |
           I was a member of  IT department and my duties were : various system administration (RHEL/CentOS, ASPLinux, Fedora, Ubuntu, Mikrotik, Windows XP/2003),  Samba PDC and fileservers, LDAP,  Web services( Apache/Lighttpd), FTP (pure-ftpd), Mail (exim/dovecot/qmail/courier/roundcube), VoIP solutions installation and support, Automatic backup service, Technical support for customers.
+    
+    - role: TECH TRAINING
+      time: 2007 - 2007
+      company: TESS COSTA DEL VESUVIO SPA
+      details: |
+          I have done as teacher for a basic computer course for employees of the company
+    
+   - role: IT SUPPORT TECHNICIAN 
+      time: 2006 - 2006
+      company: SOFTWARE & SISTEMI SRL
+      details: |
+          I was a Help Desk Support member, hardware maintenance, installation and configuration of personal computers and notebooks.I was in charge of releasing software patches in the Linux environment of a management system created and developed by the same company.
 
 projects:
     title: Projects
