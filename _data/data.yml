@@ -57,11 +57,14 @@ education:
     
     - degree: MTCRE MIKROTIK CERTIFIED ROUTING ENGINEER
 <<<<<<< HEAD
+<<<<<<< HEAD
       university: 
       time: 2017   
       details: |
       
      - degree: dCap Digium Certified Asterisk Professional
+=======
+>>>>>>> parent of 75af373... Update data.yml
 =======
 >>>>>>> parent of 75af373... Update data.yml
       university: 
