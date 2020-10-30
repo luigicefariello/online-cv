@@ -46,7 +46,7 @@ career-profile:
      
 education:
     - degree: Electronic and Telecommunication Engineer
-      university: University of London
+      university: 
       time: 2004  
       details: |
        
@@ -55,6 +55,10 @@ education:
       time: 2019   
       details: |
     
+    - degree: MTCRE MIKROTIK CERTIFIED ROUTING ENGINEER
+      university: 
+      time: 2017   
+      details: |
 experiences:
     
     - role: IT MANAGER
