@@ -120,12 +120,6 @@ experiences:
       details: |
           I was a member of  IT department and my duties were : various system administration (RHEL/CentOS, ASPLinux, Fedora, Ubuntu, Mikrotik, Windows XP/2003),  Samba PDC and fileservers, LDAP,  Web services( Apache/Lighttpd), FTP (pure-ftpd), Mail (exim/dovecot/qmail/courier/roundcube), VoIP solutions installation and support, Automatic backup service, Technical support for customers.
     
-    - role: TECH TRAINING
-      time: 2007 - 2007
-      company: TESS COSTA DEL VESUVIO SPA
-      details: |
-          I have done as teacher for a basic computer course for employees of the company
-  
   projects:
     title: Projects
     intro: >
