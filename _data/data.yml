@@ -42,7 +42,7 @@ career-profile:
           
           Looking for a career advancement opportunity with a company that will challenge my problem solving skills and allow me to develop my knowledge & potential.
 
-          You can [download this resume/CV template here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
+          You can [download this resume/CV here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
      
 education:
     - degree: Electronic and Telecommunication Engineer
@@ -64,6 +64,7 @@ education:
       university: 
       time: 2007   
       details: |
+
 experiences:
     
     - role: IT MANAGER
