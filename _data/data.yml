@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Luigi Cefariello 
@@ -42,11 +42,11 @@ career-profile:
           
           Looking for a career advancement opportunity with a company that will challenge my problem solving skills and allow me to develop my knowledge & potential.
 
-          You can [download this resume/CV here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
+          You can [download this resume/CV template here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
      
 education:
     - degree: Electronic and Telecommunication Engineer
-      university: 
+      university: University of London
       time: 2004  
       details: |
        
@@ -55,17 +55,6 @@ education:
       time: 2019   
       details: |
     
-    - degree: MTCRE MIKROTIK CERTIFIED ROUTING ENGINEER
-
-      university: 
-      time: 2017   
-      details: |
-      
-     - degree: dCap Digium Certified Asterisk Professional
-      university: 
-      time: 2007   
-      details: |
-
 experiences:
     
     - role: IT MANAGER
@@ -126,9 +115,9 @@ experiences:
       time: 2005 - 2006
       company: COOP. LA FIORUCCI SPA
       details: |
-      projects:
-   
-title: Projects
+
+projects:
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -154,18 +143,19 @@ title: Projects
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Windows Server Administrator
+      - name: Windows Server 
         level: 100%
 
-      - name: Linux Server Administrator
+      - name: Linux Server
         level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: VoIP
+        level: 100%
 
       - name: HTML5 & CSS
         level: 95%
@@ -174,7 +164,7 @@ skills:
         level: 85%
 
       - name: Amazon Web Services
-        level: 
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
