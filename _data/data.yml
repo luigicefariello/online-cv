@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Luigi Cefariello 
@@ -42,30 +42,25 @@ career-profile:
           
           Looking for a career advancement opportunity with a company that will challenge my problem solving skills and allow me to develop my knowledge & potential.
 
-          You can [download this resume/CV here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
+          You can [download this resume/CV template here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
      
 education:
     - degree: Electronic and Telecommunication Engineer
-      university: a
+      university:
       time: 2004
       details: |
        
     - degree: 3CX Advanced Certified Engineer
-      university: a
+      university: 
       time: 2019   
       details: |
 
     - degree: MTCRE Mikrotik Certified Routing Engineer
-      university: a
+      university:
       time: 2017
       details: |
 
-    - degree: MTCNA Mikrotik Certified Network Associate
-      university: a
-      time: 2017
-      details: |
-
- experiences:
+experiences:
     
     - role: IT MANAGER
       time: 2011 - Present
