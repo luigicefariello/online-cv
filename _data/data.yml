@@ -59,11 +59,16 @@ education:
       university:
       time: 2017
       details: |
-        -
-    - degree: MTCNA Mikrotik Certified Routing Engineer
+
+    - degree: MTCNA Mikrotik Certified Network Associate
       university:
       time: 2017
       details: |
+
+   - degree: dCap Digium Certified Asterisk Professional
+     university: a
+     time: 2007
+     details: |
 
 experiences:
     
