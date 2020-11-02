@@ -51,12 +51,17 @@ education:
       details: |
        
     - degree: 3CX Advanced Certified Engineer
-      university: 
+      university: a
       time: 2019   
       details: |
 
     - degree: MTCRE Mikrotik Certified Routing Engineer
-      university:
+      university: a
+      time: 2017
+      details: |
+        -
+    - degree: MTCNA Mikrotik Certified Routing Engineer
+      university: a
       time: 2017
       details: |
 
