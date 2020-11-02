@@ -42,26 +42,26 @@ career-profile:
           
           Looking for a career advancement opportunity with a company that will challenge my problem solving skills and allow me to develop my knowledge & potential.
 
-          You can [download this resume/CV template here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
+          You can [download this resume/CV here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
      
 education:
     - degree: Electronic and Telecommunication Engineer
-      university:
+      university: a
       time: 2004
       details: |
        
     - degree: 3CX Advanced Certified Engineer
-      university:
+      university: a
       time: 2019   
       details: |
 
     - degree: MTCRE Mikrotik Certified Routing Engineer
-      university:
+      university: a
       time: 2017
       details: |
 
     - degree: MTCNA Mikrotik Certified Network Associate
-      university:
+      university: a
       time: 2017
       details: |
 
