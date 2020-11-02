@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Luigi Cefariello 
@@ -51,17 +51,17 @@ education:
       details: |
        
     - degree: 3CX Advanced Certified Engineer
-      university: a
+      university:
       time: 2019   
       details: |
 
     - degree: MTCRE Mikrotik Certified Routing Engineer
-      university: a
+      university:
       time: 2017
       details: |
         -
     - degree: MTCNA Mikrotik Certified Routing Engineer
-      university: a
+      university:
       time: 2017
       details: |
 
