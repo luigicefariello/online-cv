@@ -145,8 +145,8 @@ skills:
       - name: VoIP
         level: 100%
 
-      - name: Proxmox
-        level: 95%
+      - name: Networking
+        level: 98%
 
       - name: Google Cloud
         level: 85%
@@ -157,7 +157,7 @@ skills:
       - name: Amazon Web Services
         level: 85%
 
-      - name: Amazon Web Services
+      - name: Proxmox
         level: 85%
 
 footer: >
