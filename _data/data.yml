@@ -145,10 +145,16 @@ skills:
       - name: VoIP
         level: 100%
 
-      - name: HTML5 & CSS
+      - name: Proxmox
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Google Cloud
+        level: 85%
+
+      - name: Azure
+        level: 85%
+
+      - name: Amazon Web Services
         level: 85%
 
       - name: Amazon Web Services
