@@ -93,7 +93,8 @@ experiences:
           - Migrated MySQL databases from local to Amazon Aurora DB. 
           - Migrated SQL Server databases from local to Microsoft Azure SQL.
           - Implemented regular and secure server backup using Symaentec Backud Exec 
-          - Maintained the Anti-virus protection using Symantec, Sophos and Bitdefender. 
+          - Maintained the Anti-virus protection using Symantec, Sophos and Bitdefender.
+          - Designed and built the entire WLAN network with Ubiquiti access point.
          
     - role: ON SITE IT SUPPORT ENGINEER 
       time: 2020 - 2020
