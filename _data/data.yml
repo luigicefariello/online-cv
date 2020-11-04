@@ -60,6 +60,10 @@ education:
       time: 2017
       details: |
 
+    - degree: MTCNA Mikrotik Certified Network Administrator
+      university:
+      time: 2017
+      details:
 experiences:
     
     - role: IT MANAGER
