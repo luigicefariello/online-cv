@@ -123,10 +123,10 @@ experiences:
         -  Manage physical and virtual server farm, focusing on Linux Debian, Red Hat, Windows Server
         -  Design, deploy, installation and management of GNU/Linux clusters for high performance and high availability computing
 
-     - role: SYSTEM ADMINISTRATOR
-       time: 2006 - 2009
-       company: Geega
-       details: |
+    - role: SYSTEM ADMINISTRATOR
+      time: 2006 - 2009
+      company: Geega
+      details: |
          -  Manage Active Directory, GPO, WSUS, DNS, DHCP, File Server and workstation patching with SCCM
          -  Build and deploy new servers on the network as needed
          -  Manage virtual and physical servers with Windows Server 2003 – 2012 R2 and RHEL operating systems
@@ -141,8 +141,6 @@ experiences:
         -  Develop and maintain documentation about current environment setup, standard operating procedures, and best practices
         -  Develop required reports in response to business user and management needs
         -  Manage the physical environment of the server racks including cable management, documentation,labeling, and configuration of KVM switching for console and remote access
-
-
 
 skills:
     title: Skills &amp; Proficiency
