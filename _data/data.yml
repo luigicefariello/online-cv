@@ -42,8 +42,7 @@ career-profile:
           
           Looking for a career advancement opportunity with a company that will challenge my problem solving skills and allow me to develop my knowledge & potential.
 
-          You can [download this resume/CV here](https://luigicefariello.github.io/online-cv/assets/Luigi-Cefariello.pdf).
-     
+
 education:
     - degree: Electronic and Telecommunication Engineer
       university:
@@ -95,10 +94,10 @@ experiences:
           -  Member of the team Windows 10 Deployment Engineers
           -  Rolling out devices to users, providing installation & deployment services in a corporate environment. As well as working with a large number of users, i interacted with other deployment engineers and managers on a regular basis
 
-      - role: AZURE CLOUD ENGINEER
-        time: 2018 - 2020
-        company: Studio Legale Associato Spedaliere
-        details: |
+    - role: AZURE CLOUD ENGINEER
+      time: 2018 - 2020
+      company: Studio Legale Associato Spedaliere
+      details: |
           -  Migrate Exchange to Office Online (O365), Active Directory to Azure Active Directory, workloads and applications to Microsoft Azure
           -  Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
           -  Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing.
