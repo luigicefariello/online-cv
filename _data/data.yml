@@ -75,18 +75,18 @@ experiences:
       time: 2011 - Present
       company: Appaltitalia
       details: |
-          Coordinating the activities of the IT department, consisting of a team of 5 people (appraisal, review)
-          Manage vendors, outsourcers, and contractors to secure software products and services
-          Managed the IT budget and provided regular reports on spend and projections
-          Practice server asset management, including maintenance of server component inventory and related documentation and technical specifications information
-          Initiated the migration to a virtualised environment, initially to VMWare Essentials and then to Amazon Web Services (30+ servers)
-          Managed migration from analog to VoIP based telephony based on 3CX
-          Managed the migration from O365 to Google Apps
-          Migrated MySQL databases from local to Amazon Aurora DB.
-          Migrated SQL Server databases from local to Microsoft Azure SQL.
-          Designed and built the entire WLAN network with Ubiquiti UniFi
-          Maintained the firewall including managing the rules for site filtering using Mikrotik
-          Perform and test routine system backups and restores
+          - Coordinating the activities of the IT department, consisting of a team of 5 people (appraisal, review)
+          - Manage vendors, outsourcers, and contractors to secure software products and services
+          - Managed the IT budget and provided regular reports on spend and projections
+          - Practice server asset management, including maintenance of server component inventory and related documentation and technical specifications information
+          - Initiated the migration to a virtualised environment, initially to VMWare Essentials and then to Amazon Web Services (30+ servers)
+          - Managed migration from analog to VoIP based telephony based on 3CX
+          - Managed the migration from O365 to Google Apps
+          - Migrated MySQL databases from local to Amazon Aurora DB.
+          - Migrated SQL Server databases from local to Microsoft Azure SQL.
+          - Designed and built the entire WLAN network with Ubiquiti UniFi
+          - Maintained the firewall including managing the rules for site filtering using Mikrotik
+          - Perform and test routine system backups and restores
          
     - role: ON SITE IT SUPPORT ENGINEER 
       time: 2020 - 2020
