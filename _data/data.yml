@@ -15,7 +15,7 @@ sidebar:
     email: luigi@cefariello.me
     phone: 
     website: luigi.cefariello.me #do not add http://
-    linkedin: luigi-cefariello
+    linkedin: luigicefariello
     github: 
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -88,18 +88,22 @@ experiences:
           - Maintained the firewall including managing the rules for site filtering using Mikrotik
           - Perform and test routine system backups and restores
          
-    - role: ON SITE IT SUPPORT ENGINEER 
+    - role: IT SUPPORT ENGINEER
       time: 2020 - 2020
       company: Fedex
       details: |
-          I was part of the team Windows 10 Deployment Engineers, rolling out devices to users, providing installation & deployment services in a corporate environment. As well as working with a large number of users, i interacted  with other deployment engineers and managers on a regular basis.
-    
-    - role: SYSTYEM ADMINISTRATOR
+          -  Member of the team Windows 10 Deployment Engineers
+          -  Rolling out devices to users, providing installation & deployment services in a corporate environment. As well as working with a large number of users, i interacted with other deployment engineers and managers on a regular basis
+
+    - role: SENIOR SYSTYEM ADMINISTRATOR
       time: 2010 - 2011
       company: Ministero Sviluppo Economico
       details: |
-          I was a member of  the IT team of Ministry of Economic Development in Italy. I supported the management of active directory and the main network services.
-    
+         -  System Administrator across multiple platforms (Unix, Linux) on important projects for Public Administration
+         -  Manage the physical and virtual environment (VMware Infrastructure) of 300 plus servers
+         -  Manage end user accounts, permissions, access rights, and storage allocations in accordance with bestpractices
+         -  Managed the migration of backup from Tivoli Storage Manager to Symantec Backup Exec 2010
+
     - role: SYSTEM ENGINEER 
       time: 2006 - 2010
       company: Geega 
