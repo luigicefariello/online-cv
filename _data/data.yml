@@ -131,26 +131,18 @@ experiences:
          -  Manage Active Directory, GPO, WSUS, DNS, DHCP, File Server and workstation patching with SCCM
          -  Build and deploy new servers on the network as needed
          -  Manage virtual and physical servers with Windows Server 2003 – 2012 R2 and RHEL operating systems
-         -  Anticipate, mitigate, identify, troubleshoot, and correct hardware and software issues on servers, and
-            workstations. Escalate incidents as necessary.
+         -  Anticipate, mitigate, identify, troubleshoot, and correct hardware and software issues on servers, and workstations. Escalate incidents as necessary
          -  Manage Database MS SQL, MySQL
 
-    - role: TECH TRAINING
-      time: 2007 - 2007
-      company: TESS COSTA DEL VESUVIO SPA
-      details: |
-          I have done as teacher for a basic computer course for employees of the company.
-    
-    - role: IT SUPPORT TECHNICIAN
+    - role: IT SUPPORT
       time: 2006 - 2006
-      company: SOFTWARE & SISTEMI SRL
+      company: Software e Sistemi
       details: |
-          I was a Help Desk Support member, hardware maintenance, installation and configuration of personal computers and notebooks.I was in charge of releasing software patches in the Linux environment of a management system created and developed by the same company.
+        -  Deploy workstations, servers, printers, scanners, firewalls, encryption systems, and appliances security
+        -  Develop and maintain documentation about current environment setup, standard operating procedures, and best practices
+        -  Develop required reports in response to business user and management needs
+        -  Manage the physical environment of the server racks including cable management, documentation,labeling, and configuration of KVM switching for console and remote access
 
-    - role: WORKMAN
-      time: 2005 - 2006
-      company: COOP. LA FIORUCCI SPA
-      details: |
 
 
 skills:
