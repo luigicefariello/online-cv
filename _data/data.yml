@@ -95,6 +95,19 @@ experiences:
           -  Member of the team Windows 10 Deployment Engineers
           -  Rolling out devices to users, providing installation & deployment services in a corporate environment. As well as working with a large number of users, i interacted with other deployment engineers and managers on a regular basis
 
+      - role: AZURE CLOUD ENGINEER
+        time: 2018 - 2020
+        company: Studio Legale Associato Spedaliere
+        details: |
+          -  Migrate Exchange to Office Online (O365), Active Directory to Azure Active Directory, workloads and applications to Microsoft Azure
+          -  Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+          -  Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing.
+          -  Designed VNets and subscriptions to confirm to Azure Network Limits.
+          -  Creating Storage Pool and Stripping of Disk for Azure Virtual Machines. Backup, Configure and Restore Azure Virtual Machine using Azure Backup.
+          -  Taking Backup to cloud Storage Account using Cloudberry Cloud Storage Tools. Configure Site to Site VPN Connectivity.
+          -  Convert existing Virtual Machine from Standard to Premium Storage Account. Patching and Validating of Virtual Machine in Azure.
+          -  Monitor Azure Infrastructure through System Center Operation Manager (SCOM)
+
     - role: SENIOR SYSTYEM ADMINISTRATOR
       time: 2010 - 2011
       company: Ministero Sviluppo Economico
@@ -104,12 +117,24 @@ experiences:
          -  Manage end user accounts, permissions, access rights, and storage allocations in accordance with bestpractices
          -  Managed the migration of backup from Tivoli Storage Manager to Symantec Backup Exec 2010
 
-    - role: SYSTEM ENGINEER 
-      time: 2006 - 2010
-      company: Geega 
+    - role: SYSTEM ADMINISTRATOR
+      time: 2009 - 2010
+      company: Info.net Italia
       details: |
-         I was a member of  IT department and my duties were : various system administration (RHEL/CentOS, ASPLinux, Fedora, Ubuntu, Mikrotik, Windows XP/2003),  Samba PDC and fileservers, LDAP,  Web services( Apache/Lighttpd), FTP (pure-ftpd), Mail (exim/dovecot/qmail/courier/roundcube), VoIP solutions installation and support, Automatic backup service, Technical support for customers.
-    
+        -  Manage physical and virtual server farm, focusing on Linux Debian, Red Hat, Windows Server
+        -  Design, deploy, installation and management of GNU/Linux clusters for high performance and high availability computing
+
+     - role: SYSTEM ADMINISTRATOR
+       time: 2006 - 2009
+       company: Geega
+       details: |
+         -  Manage Active Directory, GPO, WSUS, DNS, DHCP, File Server and workstation patching with SCCM
+         -  Build and deploy new servers on the network as needed
+         -  Manage virtual and physical servers with Windows Server 2003 – 2012 R2 and RHEL operating systems
+         -  Anticipate, mitigate, identify, troubleshoot, and correct hardware and software issues on servers, and
+            workstations. Escalate incidents as necessary.
+         -  Manage Database MS SQL, MySQL
+
     - role: TECH TRAINING
       time: 2007 - 2007
       company: TESS COSTA DEL VESUVIO SPA
